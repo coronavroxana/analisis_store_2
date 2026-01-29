@@ -1,2 +1,4 @@
 # analisis_store_2
-Análisis de clientes, con limpieza de datos parte 2
+Este notebook muestra limpieza de datos de los datos de clientes de una tienda.
+## Funcionalidades
+1. Se aplicaron filtros a las listas de clientes, para dividir por categorías.
